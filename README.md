@@ -1,3 +1,3 @@
 # DUPLA
-##vitor alexandre 32
-##marcua paulo 26
+##Vitor Alexandre 32
+##Marcus Paulo 26
